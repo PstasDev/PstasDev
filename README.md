@@ -1,9 +1,10 @@
 ### PstasDev
-`Student`
+![Static Badge](https://img.shields.io/badge/Main_interest-Python-blue)
+![Static Badge](https://img.shields.io/badge/Currently_interested_in-Web_design-blue)
+![Static Badge](https://img.shields.io/badge/My_Website-botond.eu-darkgreen)
 
-[![Top Langs](https://github-readme-stats-ten-theta-27.vercel.app/api/top-langs/?username=PstasDev&theme=github_dark_dimmed&text_color=718096&bg_color=00000000&hide_border=true)]()
 
-<img src="https://raw.githubusercontent.com/PstasDev/PstasDev/output/snake.svg" alt="Snake animation" />
+[![Top Langs](https://github-readme-stats-ten-theta-27.vercel.app/api/top-langs/?username=PstasDev&theme=github_dark_dimmed&text_color=718096&bg_color=00000000&hide_border=true&hide_title=true)]()
 
 <!--
 **PstasDev/PstasDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/PstasDev/PstasDev/main?label=Last%20updated)
