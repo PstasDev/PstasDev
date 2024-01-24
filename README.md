@@ -1,7 +1,9 @@
 ### PstasDev
 `Student`
 
-[![Top Langs](https://github-readme-stats-ten-theta-27.vercel.app/api/top-langs/?username=PstasDev&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=PstasDev&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats-ten-theta-27.vercel.app/api/top-langs/?username=PstasDev&theme=github_dark_dimmed&text_color=718096&bg_color=00000000&hide_border=true)]()
+
+<img src="https://raw.githubusercontent.com/PstasDev/PstasDev/output/snake.svg" alt="Snake animation" />
 
 <!--
 **PstasDev/PstasDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
