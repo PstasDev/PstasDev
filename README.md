@@ -1,7 +1,7 @@
 ### PstasDev
 ![Static Badge](https://img.shields.io/badge/Main_interest-Python-blue)
 <!-- ![Static Badge](https://img.shields.io/badge/Currently_interested_in-Web-blue) -->
-![Static Badge](https://img.shields.io/badge/My_Website-botond.eu-darkgreen)
+[![Static Badge](https://img.shields.io/badge/My_Website-botond.eu-darkgreen)](https://botond.eu)
 
 [![Top Langs](https://github-readme-stats-ten-theta-27.vercel.app/api/top-langs/?username=PstasDev&theme=github_dark_dimmed&text_color=718096&bg_color=00000000&hide_border=true&hide_title=true)]()
 
