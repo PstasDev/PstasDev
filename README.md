@@ -48,9 +48,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/PstasDev/PstasDev/output/snake.svg" alt="Snake animation" />
-
-###
