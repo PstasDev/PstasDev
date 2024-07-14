@@ -18,11 +18,15 @@
 
 > 📦 92.6 kB Used in GitHub's Storage 
  > 
-> 🏆 612 Contributions in the Year 2024
+> 🏆 624 Contributions in the Year 2024
  > 
 > 📜 8 Public Repositories 
  > 
 > 🔑 136 Private Repositories 
+ > 
+> 📊 3.4 million lines of code total lines of code written All Time 
+ > 
+> 🌍 Carbon footprint: 7.3 thousand kgs 
  > 
 **I'm a Night 🦉** 
 
@@ -86,7 +90,7 @@ TypeScript               3 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/PstasDev/PstasDev/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2024 22:21:06 UTC
+ Last Updated on 14/07/2024 22:45:33 UTC
 <!--END_SECTION:waka-->
 
 ###
