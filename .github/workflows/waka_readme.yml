@@ -19,3 +19,4 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_LINES_OF_CODE: "True"
           SYMBOL_VERSION: 2
+          DEBUG: "True"
