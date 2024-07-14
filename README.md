@@ -2,6 +2,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PstasDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=kacho_ga&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-ten-theta-27.vercel.app/api/top-langs?username=PstasDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=kacho_ga&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
