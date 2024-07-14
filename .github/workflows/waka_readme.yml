@@ -18,3 +18,10 @@ jobs:
           SHOW_HIREABLE: "False"
           SYMBOL_VERSION: 2
           DEBUG_LOGGING: "True"
+
+          # Debug mode
+
+          EM.SHOW_LINES_OF_CODE: "False"
+          EM.SHOW_LOC_CHART: "False"
+          EM.SHOW_COMMIT: "False"
+          EM.SHOW_DAYS_OF_WEE: "False"
