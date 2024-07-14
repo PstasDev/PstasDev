@@ -19,3 +19,4 @@ jobs:
           SHOW_HIREABLE: "False"
           SYMBOL_VERSION: 2
           DEBUG_LOGGING: "True"
+          TOTAL_DISK_SPACE: 593
