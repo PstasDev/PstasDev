@@ -14,7 +14,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 93.1 kB/593 GB Used in GitHub Storage (1.570725126475548e-05% of the total disk space available for me Locally) 
+> 📦 93.1 kB/593 GB Used in GitHub Storage (0% of the total disk space available for me Locally) 
  > 
 > 🏆 656 Contributions in the Year 2024
  > 
@@ -88,7 +88,7 @@ Swift                    1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/PstasDev/PstasDev/main/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2024 16:07:29 UTC
+ Last Updated on 15/07/2024 16:11:56 UTC
 <!--END_SECTION:waka-->
 
 ###
