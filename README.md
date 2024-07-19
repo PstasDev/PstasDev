@@ -6,6 +6,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-ten-theta-27.vercel.app/api/top-langs?username=PstasDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=kacho_ga&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-ten-theta-27.vercel.app/api/top-langs?username=PstasDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=redindex&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats-ten-theta-27.vercel.app/api/wakatime?username=PstasDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=kacho_ga&hide_border=true" height="150" alt="languages graph"  />
 </div>
