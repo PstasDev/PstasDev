@@ -132,7 +132,7 @@ Kezdő tapasztalattal rendelkezem különböző típusú rendezvények technikai
 ### 💻 Leggyakrabban Használt Nyelvek
 
 <div>
-  <img src="https://github-readme-stats-ten-theta-27.vercel.app/api/top-langs?username=PstasDev&locale=hu&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=redindex&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PstasDev&locale=hu&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=redindex&hide_border=true" alt="Top Languages" />
 </div>
 
 ### ⏱️ Kódolási Aktivitás
